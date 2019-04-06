@@ -17,9 +17,8 @@
 <t tx="ed.20190406153641.1">A robot must obey orders given it by human beings except where such orders would conflict with the First Law.</t>
 <t tx="ed.20190406153706.1">A robot may not injure a human being or, through inaction, allow a human being to come to harm.
 
-&lt;div&gt;
-&lt;img src="https://twiki.cern.ch/twiki/pub/LHCb/Bender/bender-for-website.jpg" width="50"       alt="bender1"&gt;
-&lt;/div&gt;</t>
+
+&lt;img src="https://twiki.cern.ch/twiki/pub/LHCb/Bender/bender-for-website.jpg" width="50px" alt="bender1"&gt;</t>
 <t tx="ed.20190406153717.1">A robot must protect its own existence as long as such protection does not conflict with the First or Second Law.</t>
 </tnodes>
 </leo_file>
