@@ -14,11 +14,17 @@
 </vnodes>
 <tnodes>
 <t tx="ed.20190330185110.2"></t>
-<t tx="ed.20190406153641.1">A robot must obey orders given it by human beings except where such orders would conflict with the First Law.</t>
+<t tx="ed.20190406153641.1">A robot must obey orders given it by human beings except where such orders would conflict with the First Law.
+
+
+&lt;img src="https://images-na.ssl-images-amazon.com/images/I/51jAZcnBYdL.jpg" width="400px"alt="bender1"&gt;
+</t>
 <t tx="ed.20190406153706.1">A robot may not injure a human being or, through inaction, allow a human being to come to harm.
 
 
 &lt;img src="https://twiki.cern.ch/twiki/pub/LHCb/Bender/bender-for-website.jpg" width="200px"alt="bender1"&gt;</t>
-<t tx="ed.20190406153717.1">A robot must protect its own existence as long as such protection does not conflict with the First or Second Law.</t>
+<t tx="ed.20190406153717.1">A robot must protect its own existence as long as such protection does not conflict with the First or Second Law.
+
+&lt;img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Bender_Rodriguez.png/220px-Bender_Rodriguez.png" width="200px"alt="bender1"&gt;</t>
 </tnodes>
 </leo_file>
