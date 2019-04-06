@@ -6,14 +6,18 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="ed.20190330185110.2"><vh>Top Node</vh>
-<v t="ed.20190330185151.1"><vh>Child2</vh></v>
-<v t="ed.20190330185140.1"><vh>Child1</vh></v>
+<v t="ed.20190330185110.2"><vh>Three Laws of Robotics</vh>
+<v t="ed.20190406153706.1"><vh>Rule 1</vh></v>
+<v t="ed.20190406153641.1"><vh>Rule 2</vh></v>
+<v t="ed.20190406153717.1"><vh>Rule 3</vh></v>
 </v>
 </vnodes>
 <tnodes>
-<t tx="ed.20190330185110.2">This is the top level parent node.</t>
-<t tx="ed.20190330185140.1">This is child 1 node.</t>
-<t tx="ed.20190330185151.1">This is child 2 node.</t>
+<t tx="ed.20190330185110.2"></t>
+<t tx="ed.20190406153641.1">A robot must obey orders given it by human beings except where such orders would conflict with the First Law.</t>
+<t tx="ed.20190406153706.1">A robot may not injure a human being or, through inaction, allow a human being to come to harm.
+
+</t>
+<t tx="ed.20190406153717.1">A robot must protect its own existence as long as such protection does not conflict with the First or Second Law.</t>
 </tnodes>
 </leo_file>
