@@ -21,9 +21,9 @@
 <t tx="ed.20190406153706.1">A robot may not injure a human being or, through inaction, allow a human being to come to harm.
 
 
-&lt;img src="https://twiki.cern.ch/twiki/pub/LHCb/Bender/bender-for-website.jpg" width="200px"alt="bender1"&gt;</t>
+&lt;img src="https://twiki.cern.ch/twiki/pub/LHCb/Bender/bender-for-website.jpg" width="400px"alt="bender1"&gt;</t>
 <t tx="ed.20190406153717.1">A robot must protect its own existence as long as such protection does not conflict with the First or Second Law.
 
-&lt;img src="https://images-na.ssl-images-amazon.com/images/I/51jAZcnBYdL.jpg" width="200px"alt="bender1"&gt;</t>
+&lt;img src="https://images-na.ssl-images-amazon.com/images/I/51jAZcnBYdL.jpg" width="600px"alt="bender1"&gt;</t>
 </tnodes>
 </leo_file>
